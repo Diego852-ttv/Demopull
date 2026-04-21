@@ -1,0 +1,15 @@
+/workspaces/Demopull/bin/Debug/net10.0/listas
+/workspaces/Demopull/bin/Debug/net10.0/listas.deps.json
+/workspaces/Demopull/bin/Debug/net10.0/listas.runtimeconfig.json
+/workspaces/Demopull/bin/Debug/net10.0/listas.dll
+/workspaces/Demopull/bin/Debug/net10.0/listas.pdb
+/workspaces/Demopull/obj/Debug/net10.0/listas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Demopull/obj/Debug/net10.0/listas.AssemblyInfoInputs.cache
+/workspaces/Demopull/obj/Debug/net10.0/listas.AssemblyInfo.cs
+/workspaces/Demopull/obj/Debug/net10.0/listas.csproj.CoreCompileInputs.cache
+/workspaces/Demopull/obj/Debug/net10.0/listas.sourcelink.json
+/workspaces/Demopull/obj/Debug/net10.0/listas.dll
+/workspaces/Demopull/obj/Debug/net10.0/refint/listas.dll
+/workspaces/Demopull/obj/Debug/net10.0/listas.pdb
+/workspaces/Demopull/obj/Debug/net10.0/listas.genruntimeconfig.cache
+/workspaces/Demopull/obj/Debug/net10.0/ref/listas.dll

@@ -11,7 +11,7 @@ class Personaje
     }
     public void Saludar()
     {
-        Console.WriteLine(nombre+" tiene "+puntos+" puntos.");
+        Console.WriteLine(nombre+" tiene "+puntos+" puntos y el te dice hola.");
     }
     
 }
@@ -19,7 +19,7 @@ class Program
 {
     static void Main()
     {
-        Personaje heroe=new Personaje("Fulano", 1060);
+        Personaje heroe=new Personaje("Richi", 7890);
         heroe.Saludar();
     }
 }
